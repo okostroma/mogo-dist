@@ -10,23 +10,6 @@ Quick start options:
 1. Download from Github: https://github.com/okostroma/mogo-dist
 2. Clone the repo: git clone https://github.com/okostroma/mogo-dist.git
 
-What's included
-Within the download you'll find the following directories and files:
-
-mogo-dist/
-├── dist/
-|   ├── css/
-|   ├── fonts/
-|   ├── js/
-|   ├── media/
-|   ├── slick/
-|   ├── gallery.html
-|   └── index.html
-|
-├── .gitignore
-├── gulpfile.js
-├── package-lock.json.
-└── package.json
 
 Built With
 
