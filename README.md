@@ -21,3 +21,5 @@ You can create a beautiful website by using this creative template.
 6. Methodology BEM (Page gallery.html , link is located in Section Some of our work - CREATIVELY DESIGN)
 7. SASS - CSS extension language (more information: https://sass-lang.com/)
 8. Gulp - The streaming build system (more information: https://sass-lang.com/)
+
+## Installing
