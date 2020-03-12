@@ -1,4 +1,4 @@
-# mogo-dist
+# MOGO
 
 MOGO Landing Page - Free Creative Template
 This landing page are made with great variety of bright colors, beautifully aligned elements to make users aware of your site.
